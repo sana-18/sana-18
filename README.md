@@ -34,49 +34,38 @@ Welcome to my GitHub! I'm an **AI Specialist**, passionate about building intell
 
 ## 🏆 Featured Projects
 
-### 🧠 **AlSpectro-ML** - Aluminum Alloy Chemical Composition Predictor
+### **AlSpectro-ML** - Aluminum Alloy Chemical Composition Predictor
 Machine learning system for predicting chemical composition in aluminum alloys using spectroscopic data.
 - 🔗 [View Repository](https://github.com/sana-18/AlSpectro-ML)
 
-### 🧘 **NeuroStress** - EEG-Based Stress Prediction
+### **NeuroStress** - EEG-Based Stress Prediction
 LSTM-based deep learning model for classifying calm vs. stress states from EEG signals.
 - 🔗 [View Repository](https://github.com/sana-18/EEG-Based-Stress-Prediction-Using-Neural-Networks)
 
-### 🩺 **LallaCare** - Breast Cancer Risk Assessment Platform
-**🥈 2nd Prize - AI Summer School Competition, MoroccoAI (Sep 2025)**
+### **LallaCare** - Breast Cancer Risk Assessment Platform
 Multimodal AI platform combining thermal imaging and patient data for breast cancer risk assessment.
 - 🔗 [View Repository](https://github.com/sana-18/LallaCare)
 
-### 💼 **RevoFin** - Regional Investment Intelligence Platform
-**🥈 2nd Prize - The Edge TechSpring Hackathon, INSEA (May 2025)**
+### **RevoFin** - Regional Investment Intelligence Platform
 AI-powered platform assisting investors in selecting optimal regions and sectors in Morocco.
 - 🔗 [View Repository](https://github.com/sana-18/Revofin-Regional-Investment-Platform)
 
-### 💬 **PrepMate** - AI Interview Preparation Chatbot
+### **PrepMate** - AI Interview Preparation Chatbot
 Intelligent chatbot for technical interview preparation with personalized feedback.
 - 🔗 [View Repository](https://github.com/sana-18/PrepMate-AI-Interview-Prep-Chatbot)
 
-### 🚗 **Self-Driving Car Steering Angle Prediction**
+### **Self-Driving Car Steering Angle Prediction**
 Deep learning simulation for autonomous vehicle steering control.
 - 🔗 [View Repository](https://github.com/sana-18/Self-Driving-Car-Steering-Angle-Prediction-Simulation)
 
-### 📊 **Customer Attrition Prediction**
+### **ChurnSense - Customer Attrition Prediction**
 ML system for predicting customer churn with ML models.
 - 🔗 [View Repository](https://github.com/sana-18/Customer-Attrition-Prediction-Using-ML)
 
-### 🗣️ **Arabic Opinion Analysis & Classification**
+### **Arabic Opinion Analysis & Classification**
 NLP system for sentiment analysis and opinion classification in Arabic text.
 - 🔗 [View Repository](https://github.com/sana-18/Arabic-Opinion-Analysis-Classification)
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![Sana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sana-18&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sana-18&layout=compact&theme=radical)
-
-</div>
 
 ## 🎓 Education
 
