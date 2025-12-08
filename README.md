@@ -31,21 +31,6 @@ Welcome to my GitHub! I'm an **AI Specialist**, passionate about building intell
 - IoT and edge solutions with AI integration.
 - Research projects at the intersection of AI and domain specific.
 
-### 💼 Technical Expertise:
-
-```python
-skills = {
-    "AI/ML": ["Scikit-learn", "TensorFlow", "Keras", "PyTorch", "LSTM", "Transformers"],
-    "Computer Vision": ["YOLO", "CNNs", "OpenCV", "Roboflow", "Labelbox"],
-    "NLP": ["Hugging Face", "LLMs", "NLTK", "spaCy", "LangChain"],
-    "MLOps": ["MLflow", "Kubeflow", "ONNX Runtime"],
-    "Cloud & Edge": ["Azure", "AWS", "Edge Deployment"],
-    "Data Engineering": ["SQL", "MongoDB", "Redis", "Cassandra", "ETL", "Talend"],
-    "BI & Analytics": ["Power BI", "Tableau", "Feature Engineering"],
-    "Web & APIs": ["Flask", "FastAPI", "Django", "Streamlit", "Gradio", "React.js"],
-    "Languages": ["Python", "R", "JavaScript", "Dart"]
-}
-```
 
 ## 🏆 Featured Projects
 
