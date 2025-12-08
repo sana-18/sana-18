@@ -66,16 +66,6 @@ ML system for predicting customer churn with ML models.
 NLP system for sentiment analysis and opinion classification in Arabic text.
 - 🔗 [View Repository](https://github.com/sana-18/Arabic-Opinion-Analysis-Classification)
 
-
-## 🎓 Education
-
-- 🎓 **Master's in IoT and Big Data** - INPT Rabat (2024-2026)
-  - Focus: AI, Cloud Computing, Business Intelligence, IoT, Big Data
-- 🎓 **Bachelor's in AI & Data Science** - ESTM Meknes (2023-2024)
-  - Focus: ML, DL, Computer Vision, NLP
-- 🎓 **Associate Degree in Computer Science** - ESTA Agadir (2020-2022)
-
-
 ## 🏆 Awards & Recognition
 
 - 🥈 **2nd Prize** - AI Summer School Competition, MoroccoAI (Sep 2025)
@@ -87,8 +77,6 @@ NLP system for sentiment analysis and opinion classification in Arabic text.
 - 📧 **Email**: business.sanabakrim@gmail.com
 - 🐙 **GitHub**: [github.com/sana-18](https://github.com/sana-18)
 - 📍 **Location**: Rabat, Morocco
-
-## 🌍 Languages : - 🇬🇧 **English** - 🇫🇷 **French** - 🇲🇦 **Arabic** - 🇪🇸 **Spanish**
 
 ---
 
