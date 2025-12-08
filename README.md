@@ -75,8 +75,7 @@ NLP system for sentiment analysis and opinion classification in Arabic text.
 
 - 💼 **LinkedIn**: [linkedin.com/in/sana-bakrim](https://linkedin.com/in/sana-bakrim)
 - 📧 **Email**: business.sanabakrim@gmail.com
-- 🐙 **GitHub**: [github.com/sana-18](https://github.com/sana-18)
-- 📍 **Location**: Rabat, Morocco
+
 
 ---
 
