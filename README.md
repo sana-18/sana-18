@@ -10,14 +10,13 @@
 
 ## 🚀 About Me
 
-Welcome to my GitHub! I'm an **AI Specialist** and **Visiting AI Researcher** at DGAPR & INPT, passionate about building intelligent systems that bridge machine learning, deep learning, and real-world applications. Currently pursuing my Master's in IoT and Big Data, I specialize in developing production-ready AI solutions from data preprocessing to model deployment.
+Welcome to my GitHub! I'm an **AI Specialist**, passionate about building intelligent systems that bridge machine learning, deep learning, and real-world applications. Currently pursuing my Master's in IoT and Big Data, I specialize in developing production-ready AI solutions from data preprocessing to model deployment.
 
 ### 🔭 I'm currently working on:
 
 - **AI-Powered IoT Solutions**: Researching LLMs and Blockchain for remote IoT device diagnosis with dual supervision.
-- **Computer Vision Systems**: Developing YOLO-based detection models for agricultural and industrial applications.
-- **MLOps & Edge Deployment**: Optimizing models for edge devices using ONNX Runtime and managing cloud infrastructure.
-- **Multimodal AI Platforms**: Building healthcare and financial AI systems with explainable predictions.
+- **Intrusion Detection Systems**: Developing Transformer-based detection models for IDS industrial applications.
+- **MLOps & Edge Deployment**: Optimizing models for edge devices and managing cloud infrastructure.
 
 ### 🌱 I'm currently learning:
 
@@ -28,10 +27,9 @@ Welcome to my GitHub! I'm an **AI Specialist** and **Visiting AI Researcher** at
 
 ### 👯 I'm looking to collaborate on:
 
-- Open source AI/ML projects, especially in computer vision and NLP.
-- Healthcare AI applications for disease prediction and medical imaging.
-- IoT and edge computing solutions with AI integration.
-- Research projects at the intersection of AI, blockchain, and distributed systems.
+- Open source AI/ML projects.
+- IoT and edge solutions with AI integration.
+- Research projects at the intersection of AI and domain specific.
 
 ### 💼 Technical Expertise:
 
@@ -53,54 +51,36 @@ skills = {
 
 ### 🧠 **AlSpectro-ML** - Aluminum Alloy Chemical Composition Predictor
 Machine learning system for predicting chemical composition in aluminum alloys using spectroscopic data.
-- **Stack**: Python, Scikit-learn, Pandas, NumPy
-- **Achievement**: R² score of 0.995 for single-element prediction
-- **Features**: Multi-element prediction, model comparison, real-time analysis
 - 🔗 [View Repository](https://github.com/sana-18/AlSpectro-ML)
 
 ### 🧘 **NeuroStress** - EEG-Based Stress Prediction
 LSTM-based deep learning model for classifying calm vs. stress states from EEG signals.
-- **Stack**: Python, TensorFlow, LSTM
-- **Achievement**: 96% accuracy with advanced preprocessing and artifact removal
-- **Features**: Real-time stress monitoring, signal processing, neural network optimization
 - 🔗 [View Repository](https://github.com/sana-18/EEG-Based-Stress-Prediction-Using-Neural-Networks)
 
 ### 🩺 **LallaCare** - Breast Cancer Risk Assessment Platform
 **🥈 2nd Prize - AI Summer School Competition, MoroccoAI (Sep 2025)**
 Multimodal AI platform combining thermal imaging and patient data for breast cancer risk assessment.
-- **Stack**: Python, TypeScript, MedGemma, Gemini-Flash
-- **Features**: Explainable AI predictions, confidence scoring, multimodal analysis
 - 🔗 [View Repository](https://github.com/sana-18/LallaCare)
 
 ### 💼 **RevoFin** - Regional Investment Intelligence Platform
 **🥈 2nd Prize - The Edge TechSpring Hackathon, INSEA (May 2025)**
 AI-powered platform assisting investors in selecting optimal regions and sectors in Morocco.
-- **Stack**: Python, FastAPI, React, LangChain, ChromaDB, Redis, DeepSeek API
-- **Features**: Multi-agent system (Regional & Regulatory Specialist, Financial Advisor)
 - 🔗 [View Repository](https://github.com/sana-18/Revofin-Regional-Investment-Platform)
 
 ### 💬 **PrepMate** - AI Interview Preparation Chatbot
 Intelligent chatbot for technical interview preparation with personalized feedback.
-- **Stack**: Python, NLP, Transformers
-- **Features**: Real-time feedback, adaptive questioning, performance analytics
 - 🔗 [View Repository](https://github.com/sana-18/PrepMate-AI-Interview-Prep-Chatbot)
 
 ### 🚗 **Self-Driving Car Steering Angle Prediction**
 Deep learning simulation for autonomous vehicle steering control.
-- **Stack**: Python, TensorFlow, Computer Vision
-- **Features**: CNN-based steering prediction, simulation environment
 - 🔗 [View Repository](https://github.com/sana-18/Self-Driving-Car-Steering-Angle-Prediction-Simulation)
 
 ### 📊 **Customer Attrition Prediction**
-ML system for predicting customer churn with interpretable models.
-- **Stack**: Python, Scikit-learn, Feature Engineering
-- **Features**: Business insights, retention strategies, model explainability
+ML system for predicting customer churn with ML models.
 - 🔗 [View Repository](https://github.com/sana-18/Customer-Attrition-Prediction-Using-ML)
 
 ### 🗣️ **Arabic Opinion Analysis & Classification**
 NLP system for sentiment analysis and opinion classification in Arabic text.
-- **Stack**: Python, NLTK, spaCy, Transformers
-- **Features**: Arabic text preprocessing, sentiment classification, opinion mining
 - 🔗 [View Repository](https://github.com/sana-18/Arabic-Opinion-Analysis-Classification)
 
 ## 📈 GitHub Stats
@@ -116,18 +96,11 @@ NLP system for sentiment analysis and opinion classification in Arabic text.
 ## 🎓 Education
 
 - 🎓 **Master's in IoT and Big Data** - INPT Rabat (2024-2026)
-  - Focus: AI, Cloud Computing, Business Intelligence, TinyML
+  - Focus: AI, Cloud Computing, Business Intelligence, IoT, Big Data
 - 🎓 **Bachelor's in AI & Data Science** - ESTM Meknes (2023-2024)
   - Focus: ML, DL, Computer Vision, NLP
 - 🎓 **Associate Degree in Computer Science** - ESTA Agadir (2020-2022)
 
-## 💼 Professional Experience
-
-- **Visiting AI Researcher** @ DGAPR & INPT (Nov 2025 - Jan 2026)
-  - Research on AI, LLMs, and Blockchain for IoT device diagnosis
-- **Computer Vision Intern** @ PCS AGRI (Apr 2024 - May 2024)
-  - Developed YOLO-OBB model achieving 96.8% mAP for seed tray detection
-  - Managed GPU instances on Azure/AWS and deployed edge models
 
 ## 🏆 Awards & Recognition
 
@@ -141,12 +114,7 @@ NLP system for sentiment analysis and opinion classification in Arabic text.
 - 🐙 **GitHub**: [github.com/sana-18](https://github.com/sana-18)
 - 📍 **Location**: Rabat, Morocco
 
-## 🌍 Languages
-
-- 🇬🇧 **English**: Professional Proficiency
-- 🇫🇷 **French**: Professional Proficiency  
-- 🇲🇦 **Arabic**: Native
-- 🇪🇸 **Spanish**: Elementary
+## 🌍 Languages : - 🇬🇧 **English** - 🇫🇷 **French** - 🇲🇦 **Arabic** - 🇪🇸 **Spanish**
 
 ---
 
@@ -160,4 +128,4 @@ NLP system for sentiment analysis and opinion classification in Arabic text.
 
 ---
 
-Feel free to browse through my repositories and reach out if you find something interesting or want to collaborate on AI/ML projects! 🚀
+Feel free to browse through my repositories and reach out if you find something interesting or want to collaborate on AI/ML projects! 
