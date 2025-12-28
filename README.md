@@ -21,15 +21,14 @@ Welcome to my GitHub! I'm an **AI Specialist**, passionate about building intell
 ### 🌱 I'm currently learning:
 
 - **Advanced LLM Applications**: Fine-tuning and deploying large language models for domain-specific tasks.
-- **TinyML & Edge AI**: Exploring efficient model deployment on resource-constrained IoT devices.
 - **MLOps Best Practices**: Implementing CI/CD pipelines with MLflow and Kubeflow for production ML systems.
 - **Blockchain Integration**: Combining AI with blockchain for secure and transparent data systems.
 
 ### 👯 I'm looking to collaborate on:
 
 - Open source AI/ML projects.
-- IoT and edge solutions with AI integration.
-- Research projects at the intersection of AI and domain specific.
+- Industry & Research projects at the intersection of AI and domain specific.
+
 
 
 ## 🏆 Featured Projects
