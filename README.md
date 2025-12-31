@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm an **AI Specialist**, passionate about building intell
 
 ### 🔭 I'm currently working on:
 
-- **AI-Powered IoT Solutions**: Researching LLMs and Blockchain for remote IoT device diagnosis with dual supervision.
+- **AI-Powered IoT Solutions**: Researching LLMs for remote IoT device diagnosis with dual supervision.
 - **Intrusion Detection Systems**: Developing Transformer-based detection models for IDS industrial applications.
 - **MLOps & Edge Deployment**: Optimizing models for edge devices and managing cloud infrastructure.
 
