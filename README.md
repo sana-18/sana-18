@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm an **AI Specialist**, passionate about building intell
 ### **IIoT-IDS** - Multi-Class Intrusion Detection System for IIoT
 
 Machine learning–based multi-class intrusion detection system for Industrial IoT networks, leveraging advanced preprocessing, feature selection, and comparative evaluation of classical ML and deep learning models.
-- 🔗 [View Repository]([https://github.com/sana-18/AlSpectro-ML](https://github.com/sana-18/IIoT-IDS-Intrusion-Detection-System))
+- 🔗 [View Repository](https://github.com/sana-18/IIoT-IDS-Intrusion-Detection-System))
 
 ### **AlSpectro-ML** - Aluminum Alloy Chemical Composition Predictor
 Machine learning system for predicting chemical composition in aluminum alloys using spectroscopic data.
