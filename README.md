@@ -10,24 +10,24 @@
 
 ## 🚀 About Me
 
-Welcome to my GitHub! I'm an **AI Specialist**, passionate about building intelligent systems that bridge machine learning, deep learning, and real-world applications. Currently pursuing my Master's in IoT and Big Data, I specialize in developing production-ready AI solutions from data preprocessing to model deployment.
+Welcome to my GitHub! 
+I'm a Master's graduate in **IoT & Big Data** at **INPT Rabat** with a background in **Artificial Intelligence & Data Science**.
 
-### 🔭 I'm currently working on:
+I'm passionate about transforming data into actionable insights through **Data Analytics**, **Machine Learning**, and **Business Intelligence**.
 
-- **AI-Powered IoT Solutions**: Researching LLMs for remote IoT device diagnosis with dual supervision.
-- **Intrusion Detection Systems**: Developing Transformer-based detection models for IDS industrial applications.
-- **MLOps & Edge Deployment**: Optimizing models for edge devices and managing cloud infrastructure.
+My interests lie in solving business problems using data—from data collection and preparation to visualization, predictive analytics, and decision support.
 
-### 🌱 I'm currently learning:
+I'm currently building my expertise in:
 
-- **Advanced LLM Applications**: Fine-tuning and deploying large language models for domain-specific tasks.
-- **MLOps Best Practices**: Implementing CI/CD pipelines with MLflow and Kubeflow for production ML systems.
-- **Blockchain Integration**: Combining AI with blockchain for secure and transparent data systems.
+- 📊 Data Analytics
+- 📈 Business Intelligence
+- 🤖 Machine Learning
+- 🐍 Python
+- 🗄 SQL
+- 📉 Statistics
+- 📊 Power BI
 
-### 👯 I'm looking to collaborate on:
 
-- Open source AI/ML projects.
-- Industry & Research projects at the intersection of AI and domain specific.
 
 
 
