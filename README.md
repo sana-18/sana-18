@@ -19,7 +19,7 @@ My interests lie in solving business problems using data—from data collection 
 
 I'm currently building my expertise in:
 
-- 📊 Data Analytics
+- 📊 Data Science & Data Analytics
 - 📈 Business Intelligence
 - 🤖 Machine Learning
 - 🐍 Python
@@ -92,4 +92,4 @@ NLP system for sentiment analysis and opinion classification in Arabic text.
 
 ---
 
-Feel free to browse through my repositories and reach out if you find something interesting or want to collaborate on AI/ML projects! 
+Feel free to browse through my repositories and reach out if you find something interesting or want to collaborate on Data Science / Data Analytics projects! 
