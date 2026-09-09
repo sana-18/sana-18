@@ -84,7 +84,7 @@ NLP for sentiment analysis and opinion classification in Arabic text.
 
 <div align="center">
 
-### 💡 *"Building intelligent systems that make a difference, one model at a time."*
+### 💡 *"Turning data into insights, models, and decisions that create impact."*
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sana-18.sana-18)
 
