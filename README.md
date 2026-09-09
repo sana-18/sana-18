@@ -15,7 +15,7 @@ I'm a Master's graduate in **IoT & Big Data** at **INPT Rabat** with a backgroun
 
 I'm passionate about transforming data into actionable insights through **Data Analytics**, **Machine Learning**, and **Business Intelligence**.
 
-My interests lie in solving business problems using data—from data collection and preparation to visualization, predictive analytics, and decision support.
+My interests lie in solving business problems using data, from collection and preparation to visualization, predictive analytics, and decision support.
 
 I'm currently building my expertise in:
 
