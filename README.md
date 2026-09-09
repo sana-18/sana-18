@@ -65,8 +65,8 @@ Deep learning simulation for autonomous vehicle steering control.
 ML system for predicting customer churn with ML models.
 - 🔗 [View Repository](https://github.com/sana-18/Customer-Attrition-Prediction-Using-ML)
 
-### **Arabic Opinion Analysis & Classification**
-NLP system for sentiment analysis and opinion classification in Arabic text.
+### **ArabOpin - Arabic Opinion Analysis & Classification**
+NLP for sentiment analysis and opinion classification in Arabic text.
 - 🔗 [View Repository](https://github.com/sana-18/Arabic-Opinion-Analysis-Classification)
 
 ## 🏆 Awards & Recognition
