@@ -32,7 +32,7 @@ I'm currently building my expertise in:
 
 
 ## 🏆 Featured Projects
-### **Morocco Wealth Index — Poverty Mapping**
+### **Morocco Wealth Index - Poverty Mapping**
 
 Geospatial data analysis of Morocco's **Relative Wealth Index (RWI)** across **Regions, Provinces, and Communes**, using spatial joins, point-in-polygon analysis, aggregation, and geographic visualization with Python and GeoPandas.
 
