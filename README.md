@@ -32,6 +32,12 @@ I'm currently building my expertise in:
 
 
 ## 🏆 Featured Projects
+### **Morocco Wealth Index — Poverty Mapping**
+
+Geospatial data analysis of Morocco's **Relative Wealth Index (RWI)** across **Regions, Provinces, and Communes**, using spatial joins, point-in-polygon analysis, aggregation, and geographic visualization with Python and GeoPandas.
+
+* 🔗 [View Repository](https://github.com/sana-18/morocco-wealth-index-poverty-mapping)
+
 ### **IIoT-IDS** - Multi-Class Intrusion Detection System for IIoT
 
 Machine learning–based multi-class intrusion detection system for Industrial IoT networks, leveraging advanced preprocessing, feature selection, and comparative evaluation of classical ML and deep learning models.
