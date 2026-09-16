@@ -38,6 +38,11 @@ Geospatial data analysis of Morocco's **Relative Wealth Index (RWI)** across **R
 
 * 🔗 [View Repository](https://github.com/sana-18/morocco-wealth-index-poverty-mapping)
 
+### **Credit Card Default Risk Analysis** - Business Intelligence Dashboard
+
+Power BI dashboard analyzing default risk on 30,000 credit card clients (UCI dataset), built with Power Query transformations and custom DAX measures.
+- 🔗 [View Repository](https://github.com/sana-18/Credit-Card-Default-Risk-Analysis)
+
 ### **IIoT-IDS** - Multi-Class Intrusion Detection System for IIoT
 
 Machine learning–based multi-class intrusion detection system for Industrial IoT networks, leveraging advanced preprocessing, feature selection, and comparative evaluation of classical ML and deep learning models.
