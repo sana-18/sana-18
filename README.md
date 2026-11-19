@@ -13,13 +13,13 @@
 Welcome to my GitHub! 
 I'm a Master's graduate in **IoT & Big Data** at **INPT Rabat** with a background in **Artificial Intelligence & Data Science**.
 
-I'm passionate about transforming data into actionable insights through **Data Analytics**, **Machine Learning**, and **Business Intelligence**.
+I'm passionate about transforming data into actionable insights through **Artificial Intelligence**, **Data Analytics**, **Machine Learning**, and **Business Intelligence**.
 
 My interests lie in solving business problems using data, from collection and preparation to visualization, predictive analytics, and decision support.
 
-I'm currently building my expertise in:
+I'm building my expertise in:
 
-- 📊 Data Science & Data Analytics
+- 📊 Data Science & Data Analytics & AI 
 - 📈 Business Intelligence
 - 🤖 Machine Learning
 - 🐍 Python
@@ -82,8 +82,8 @@ NLP for sentiment analysis and opinion classification in Arabic text.
 
 ## 🏆 Awards & Recognition
 
-- 🥈 **2nd Prize** - AI Summer School Competition, MoroccoAI (Sep 2025)
-- 🥈 **2nd Prize** - The Edge TechSpring Hackathon, INSEA (May 2025)
+- 🥈 **2nd Prize**  with LallaCare project - AI Summer School Competition, MoroccoAI (Sep 2025)
+- 🥈 **2nd Prize**  with RevoFin project   - The Edge TechSpring Hackathon, INSEA (May 2025)
 
 ## 📫 How to Reach Me
 
